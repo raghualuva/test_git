@@ -1,6 +1,6 @@
 this is line one and added now
 <<<<<<< HEAD
 this is line two
-adding line four
+adding line four and line four
 line two added now
 >>>>>>> master
