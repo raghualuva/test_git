@@ -4,4 +4,8 @@ this is line two
 adding line four and line four
 line two added now
 >>>>>>> master
+<<<<<<< HEAD
 added line five and changing
+=======
+added line five
+>>>>>>> master
