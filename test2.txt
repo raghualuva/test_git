@@ -1,6 +1,3 @@
 this is first line
-<<<<<<< HEAD
-this is second line
-=======
 this is second line and line two
->>>>>>> dummy
+this is line three
